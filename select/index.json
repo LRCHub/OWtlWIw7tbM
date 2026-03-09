@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "僕たちは息をして",
+  "base_artist": "chilldspot",
+  "createdAt": "2026-03-09T11:25:57.851252Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "僕たちは息をして",
+      "artist": "chilldspot",
+      "has_synced": false,
+      "path": "select/pl_01_僕たちは息をして_chilldspot.txt"
+    }
+  ]
+}
